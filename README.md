@@ -1,1 +1,3 @@
-# I3_DISCUSS_TEST
+# Repo for 
+- Ask questions
+- Share information
